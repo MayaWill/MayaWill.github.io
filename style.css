@@ -1,0 +1,14 @@
+
+:root {
+    --base-color: #E6FCF7;
+    --text-color: #0C1411;
+    --primary-color: #78A1A0;
+    --secondary-color: #7878A1;
+    --color-1: #CCCCDE;
+}
+
+.card-img-top {
+  height: 200px;   
+  object-fit: cover;  
+  width: 100%;        
+}
